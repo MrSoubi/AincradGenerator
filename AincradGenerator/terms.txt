@@ -1,0 +1,5 @@
+level: a 21x21 to 35x35 grid, composed of a village, a dungeon, and varying props
+village: the zone where the player spawns
+dungeon: the zone where the player gets out of the level to the next one
+props: elements on the grid like trees, chests, flowers, rock...
+
